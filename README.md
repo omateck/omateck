@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omateck
-- 👀 I’m interested in creating a Bitcoin investment website
+- 👀 I’m interested in blockchain developement 
 - 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on php
 - 📫 How to reach me omateck7@gmail.com
